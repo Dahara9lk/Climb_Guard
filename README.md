@@ -1,5 +1,5 @@
 # ClimbGuard - IoT Smart Climbing Glove
-Second Year IOT project
+
 ClimbGuard is an IoT-based wearable glove designed to ensure the safety of high-altitude mountain climbers. It monitors health vitals and environmental conditions, enables offline communication, and supports emergency alerting even in the absence of internet or cellular coverage.
 
 ## Project Overview
