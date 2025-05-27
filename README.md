@@ -48,7 +48,7 @@ ClimbGuard is an IoT-based wearable glove designed to ensure the safety of high-
 ## Power Supply
 
 - 3.7V Li-ion battery with voltage regulator (3.3V for ESP32 and sensors)
-- Optional: solar panel for charging
+- Optional: solar panel for charging.
 
 ## Mobile App (Optional)
 
